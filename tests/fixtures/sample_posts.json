@@ -1,0 +1,90 @@
+[
+  {
+    "type": "need",
+    "category": "water",
+    "description": "Family of four in Altadena urgently needs bottled water, our tap water is out after the storm",
+    "location_zone": "altadena",
+    "urgency": "urgent",
+    "contact": "maria@example.com",
+    "quantity": 4,
+    "created_at": "2025-01-15T09:00:00+00:00",
+    "raw_text": "URGENT: family of 4 in Altadena needs bottled water, tap water is out after the storm"
+  },
+  {
+    "type": "need",
+    "category": "water",
+    "description": "Family of 4 in Altadena urgently need bottled water, tap water out since the storm",
+    "location_zone": "altadena",
+    "urgency": "urgent",
+    "contact": "gabriela@example.com",
+    "quantity": 4,
+    "created_at": "2025-01-15T09:08:00+00:00",
+    "raw_text": "urgent - family of 4 in altadena need bottled water, tap water has been out since the storm"
+  },
+  {
+    "type": "need",
+    "category": "food",
+    "description": "Need groceries for elderly neighbor who can't get to the store this week",
+    "location_zone": "highland park",
+    "urgency": "soon",
+    "contact": "jamal@example.com",
+    "quantity": 1,
+    "created_at": "2025-01-15T10:00:00+00:00",
+    "raw_text": "need groceries this week for an elderly neighbor in Highland Park who can't get to the store"
+  },
+  {
+    "type": "need",
+    "category": "childcare",
+    "description": "Looking for babysitting help two evenings next week while I work a shift",
+    "location_zone": "glassell park",
+    "urgency": "flexible",
+    "contact": "priya@example.com",
+    "quantity": 2,
+    "created_at": "2025-01-15T11:00:00+00:00",
+    "raw_text": "looking for a babysitter two evenings next week in Glassell Park, flexible on timing"
+  },
+  {
+    "type": "offer",
+    "category": "water",
+    "description": "Have several cases of bottled water to give away, can drop off nearby",
+    "location_zone": "pasadena",
+    "urgency": "flexible",
+    "contact": "sam@example.com",
+    "quantity": 10,
+    "created_at": "2025-01-15T09:30:00+00:00",
+    "raw_text": "have a bunch of cases of bottled water to give away in Pasadena, can drop off nearby"
+  },
+  {
+    "type": "offer",
+    "category": "food",
+    "description": "Extra produce from our garden and pantry staples available for pickup",
+    "location_zone": "eagle rock",
+    "urgency": "flexible",
+    "contact": "diego@example.com",
+    "quantity": 5,
+    "created_at": "2025-01-15T10:15:00+00:00",
+    "raw_text": "extra produce and pantry staples available for pickup in Eagle Rock"
+  },
+  {
+    "type": "offer",
+    "category": "power",
+    "description": "Portable generator available to lend for a few days, gas included",
+    "location_zone": "highland park",
+    "urgency": "flexible",
+    "contact": "lee@example.com",
+    "quantity": 1,
+    "created_at": "2025-01-15T08:00:00+00:00",
+    "raw_text": "have a generator to lend in Highland Park, available this week, gas included"
+  },
+  {
+    "type": "offer",
+    "category": "childcare",
+    "description": "Available to babysit evenings this week, experienced with toddlers",
+    "location_zone": "eagle rock",
+    "urgency": "soon",
+    "contact": "amy@example.com",
+    "quantity": 1,
+    "created_at": "2025-01-15T11:30:00+00:00",
+    "raw_text": "available to babysit evenings this week in Eagle Rock, experienced with toddlers"
+  }
+]
