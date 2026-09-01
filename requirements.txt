@@ -1,0 +1,5 @@
+# For Anthropic or OpenAI model providers, install extras instead: strands-agents[anthropic] or strands-agents[openai]
+strands-agents
+flask>=3.0
+python-dotenv>=1.0
+pytest>=8.0
