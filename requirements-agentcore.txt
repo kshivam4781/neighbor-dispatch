@@ -1,0 +1,10 @@
+# Optional extra, only needed for deploy/agentcore_app.py (Bedrock AgentCore Runtime wrapper).
+# Not required to run `python demo.py`, `python demo.py --serve`, `python demo.py --worked-example`,
+# or the test suite -- keep it out of requirements.txt so the base install stays minimal.
+#
+# Install with: pip install -r requirements.txt -r requirements-agentcore.txt
+bedrock-agentcore>=1.0.0
+
+# Only needed to actually deploy (agentcore configure / agentcore launch) against real AWS --
+# not needed to run deploy/agentcore_app.py locally or to run tests/test_agentcore_app.py.
+# bedrock-agentcore-starter-toolkit
